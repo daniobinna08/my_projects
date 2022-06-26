@@ -1,1 +1,1 @@
-# my_projects
+# Analysis and prediction of the famous titanic datasets
